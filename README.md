@@ -9,6 +9,7 @@
 * クリーニングクロス（サムコス）用に縦横比を修正
 * QRコードが小さすぎて読み込めなかった為、大きく配置
 * 文字の半透明処理を書けすぎてコントラストがクリアでなかったため、ハイコントラストで印刷されるように不透明度処理を 70% → 90% に変更した
+
 <img src="https://github.com/furuhashilab/geogacha/blob/main/cleaningcloth/202507geoten/FuruhashiLab_CleaningCloth2025/FuruhashiLab_CleaningCloth2025_v2.001.jpeg?raw=true" width="200" /> <img src="https://github.com/furuhashilab/geogacha/blob/main/cleaningcloth/202507geoten/FuruhashiLab_CleaningCloth2025/FuruhashiLab_CleaningCloth2025_v2.002.jpeg?raw=true" width="200" />
  <img src="https://github.com/furuhashilab/geogacha/blob/main/cleaningcloth/202507geoten/FuruhashiLab_CleaningCloth2025/FuruhashiLab_CleaningCloth2025_v2.003.jpeg?raw=true" width="200" /> 
 <img src="https://github.com/furuhashilab/geogacha/blob/main/cleaningcloth/202507geoten/FuruhashiLab_CleaningCloth2025/FuruhashiLab_CleaningCloth2025_v2.004.jpeg?raw=true" width="200" /> <img src="https://github.com/furuhashilab/geogacha/blob/main/cleaningcloth/202507geoten/FuruhashiLab_CleaningCloth2025/FuruhashiLab_CleaningCloth2025_v2.005.jpeg?raw=true" width="200" />
