@@ -3,6 +3,8 @@
 
 ## 202507 GeoTen
 ### v1.0.0
+* with 背景トート画像 (トートバックとの相対的なサイズ確認用。印刷には用いないこと)
+<img src="https://github.com/furuhashilab/geogacha/blob/main/totebag/202507geoten/FuruhashiLab_Totebag2025_v100_withbackgroundimage.png?raw=true" width="300" />
 * with BoundingBox (トートバックとの相対的なサイズ確認用。印刷には用いないこと)
 <img src="https://github.com/furuhashilab/geogacha/blob/main/totebag/202507geoten/FuruhashiLab_Totebag2025_v100_withbbox.png?raw=true" width="300" />
 * no BoundingBox (印刷するときはこっちを使うこと！)
