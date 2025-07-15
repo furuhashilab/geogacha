@@ -2,8 +2,19 @@
 ジオガチャ用公開リポジトリ
 
 
+
+
 ## 2025年
-### クリーニングクロス
+
+### 1. ジオガチャポスター
+<img src="https://github.com/furuhashilab/geogacha/blob/main/%E6%99%AF%E5%93%81%E7%B4%B9%E4%BB%8B%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC.jpeg?raw=true" width="200" />
+
+
+### 2. ジオガチャ景品カプセル内説明書
+<img src="https://github.com/furuhashilab/geogacha/blob/main/%E3%82%B8%E3%82%AA%E3%82%AC%E3%83%81%E3%83%A3%E5%86%85%E7%B4%B9%E4%BB%8B%E7%B4%99.jpeg?raw=true" width="200" />
+
+
+### 3. クリーニングクロス
 * [クリーニングクロス](https://github.com/furuhashilab/geogacha/tree/main/cleaningcloth/202507geoten)
 
 #### サイズ修正(150 x 180 mm)
@@ -22,7 +33,7 @@
 <img src="https://github.com/furuhashilab/geogacha/blob/main/cleaningcloth/202507geoten/FuruhashiLab_CleaningCloth2025/FuruhashiLab_CleaningCloth2025_v1.004.jpeg?raw=true" width="200" /> <img src="https://github.com/furuhashilab/geogacha/blob/main/cleaningcloth/202507geoten/FuruhashiLab_CleaningCloth2025/FuruhashiLab_CleaningCloth2025_v1.005.jpeg?raw=true" width="200" />
 
 
-### トートバッグ
+### 4. トートバッグ
 
 #### v1.0.0
 * with 背景トート画像 (トートバックとの相対的なサイズ確認用。印刷には用いないこと)と with BoundingBox (トートバックとの相対的なサイズ確認用。印刷には用いないこと)
